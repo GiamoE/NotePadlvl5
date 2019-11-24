@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotePad Kotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit">Edit Notepad</string>
+    <string name="main_header_text">Giamo\'s Personal Notepad</string>
+    <string name="date_last_update_text">Last Updated %1$s</string>
+    <string name="Note_Default_text">Things I want to do today:</string>
+</resources>
